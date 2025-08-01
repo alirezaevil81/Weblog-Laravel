@@ -2,25 +2,15 @@
 
 <p align="center">
   <!-- GitHub Actions Status -->
-  <a href="https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml">
-    <img src="https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml/badge.svg" alt="Run Laravel Tests">
-  </a>
+  [![Run Laravel Tests](https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml/badge.svg)](https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml)
   <!-- Laravel Version -->
-  <a href="https://laravel.com">
-    <img src="https://img.shields.io/badge/Laravel-v12.x-FF2D20.svg" alt="Laravel Version">
-  </a>
+  [![Laravel Version](https://img.shields.io/badge/Laravel-v12.x-FF2D20.svg)](https://laravel.com)
   <!-- PHP Version -->
-  <a href="https://www.php.net">
-    <img src="https://img.shields.io/badge/PHP-%3E%3D8.2-8892BF.svg" alt="PHP Version">
-  </a>
+  [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.2-8892BF.svg)](https://www.php.net)
   <!-- License -->
-  <a href="https://github.com/alirezaevil81/Weblog-Laravel/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  </a>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/alirezaevil81/Weblog-Laravel/blob/main/LICENSE)
   <!-- Last Commit -->
-  <a href="https://github.com/alirezaevil81/Weblog-Laravel/commits/main">
-    <img src="https://img.shields.io/github/last-commit/alirezaevil81/Weblog-Laravel" alt="Last Commit">
-  </a>
+  [![Last Commit](https://img.shields.io/github/last-commit/alirezaevil81/Weblog-Laravel)](https://github.com/alirezaevil81/Weblog-Laravel/commits/main)
 </p>
 
 این پروژه یک سیستم وبلاگ ساده و مدرن است که با استفاده از جدیدترین ابزارهای اکوسیستم لاراول توسعه داده شده است. تمرکز اصلی این پروژه بر پیاده‌سازی یک سیستم احراز هویت امن و سفارشی، ساختاردهی تمیز قالب‌ها با Blade و راه‌اندازی یک فرآیند CI/CD خودکار با GitHub Actions بوده است.
@@ -32,18 +22,18 @@
 این پروژه برای نمایش مهارت در حوزه‌های زیر طراحی شده است:
 
 - **Back-End:**
-  - **Laravel 12:** استفاده از آخرین نسخه فریمورک و مفاهیم اصلی آن مانند مسیریابی (Routing)، کنترلرها و Eloquent ORM.
-  - **سیستم احراز هویت یکپارچه:** پیاده‌سازی کامل فرآیندهای ثبت‌نام، ورود و خروج کاربران در یک کنترلر واحد (`AuthController`).
-  - **اعتبارسنجی پیشرفته:** استفاده از Form Request (`LoginRequest`) برای جداسازی منطق اعتبارسنجی و افزایش امنیت.
+    - **Laravel 12:** استفاده از آخرین نسخه فریمورک و مفاهیم اصلی آن مانند مسیریابی (Routing)، کنترلرها و Eloquent ORM.
+    - **سیستم احراز هویت یکپارچه:** پیاده‌سازی کامل فرآیندهای ثبت‌نام، ورود و خروج کاربران در یک کنترلر واحد (`AuthController`).
+    - **اعتبارسنجی پیشرفته:** استفاده از Form Request (`LoginRequest`) برای جداسازی منطق اعتبارسنجی و افزایش امنیت.
 
 - **Front-End:**
-  - **Tailwind CSS 4:** طراحی کاملاً واکنش‌گرا و مدرن با بهره‌گیری از نسخه جدید و بهینه تیلوند.
-  - **Vite:** مدیریت و کامپایل فوق‌العاده سریع فایل‌های CSS و JS.
-  - **قالب‌بندی ماژولار با Blade:** جداسازی بخش‌های تکراری مانند هدر و فوتر با استفاده از `@include` برای خوانایی و مدیریت بهتر کد.
+    - **Tailwind CSS 4:** طراحی کاملاً واکنش‌گرا و مدرن با بهره‌گیری از نسخه جدید و بهینه تیلوند.
+    - **Vite:** مدیریت و کامپایل فوق‌العاده سریع فایل‌های CSS و JS.
+    - **قالب‌بندی ماژولار با Blade:** جداسازی بخش‌های تکراری مانند هدر و فوتر با استفاده از `@include` برای خوانایی و مدیریت بهتر کد.
 
 - **DevOps و تست:**
-  - **GitHub Actions (CI):** راه‌اندازی یک ورک‌فلو خودکار برای اجرای تست‌های پروژه (PHPUnit) پس از هر `push`، جهت تضمین سلامت و پایداری کد.
-  - **PHPUnit:** استفاده از تست‌های Feature و Unit برای اطمینان از عملکرد صحیح اپلیکیشن.
+    - **GitHub Actions (CI):** راه‌اندازی یک ورک‌فلو خودکار برای اجرای تست‌های پروژه (PHPUnit) پس از هر `push`، جهت تضمین سلامت و پایداری کد.
+    - **PHPUnit:** استفاده از تست‌های Feature و Unit برای اطمینان از عملکرد صحیح اپلیکیشن.
 
 ---
 
