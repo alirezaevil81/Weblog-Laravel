@@ -1,17 +1,10 @@
 # پروژه وبلاگ با لاراول (Weblog-Laravel)
 
-<p align="center">
-  <!-- GitHub Actions Status -->
-  [![Run Laravel Tests](https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml/badge.svg)](https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml)
-  <!-- Laravel Version -->
-  [![Laravel Version](https://img.shields.io/badge/Laravel-v12.x-FF2D20.svg)](https://laravel.com)
-  <!-- PHP Version -->
-  [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.2-8892BF.svg)](https://www.php.net)
-  <!-- License -->
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/alirezaevil81/Weblog-Laravel/blob/main/LICENSE)
-  <!-- Last Commit -->
-  [![Last Commit](https://img.shields.io/github/last-commit/alirezaevil81/Weblog-Laravel)](https://github.com/alirezaevil81/Weblog-Laravel/commits/main)
-</p>
+[![Run Laravel Tests](https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml/badge.svg)](https://github.com/alirezaevil81/Weblog-Laravel/actions/workflows/laravel.yml)
+[![Laravel Version](https://img.shields.io/badge/Laravel-v12.x-FF2D20.svg)](https://laravel.com)
+[![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.2-8892BF.svg)](https://www.php.net)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/alirezaevil81/Weblog-Laravel/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/alirezaevil81/Weblog-Laravel)](https://github.com/alirezaevil81/Weblog-Laravel/commits/main)
 
 این پروژه یک سیستم وبلاگ ساده و مدرن است که با استفاده از جدیدترین ابزارهای اکوسیستم لاراول توسعه داده شده است. تمرکز اصلی این پروژه بر پیاده‌سازی یک سیستم احراز هویت امن و سفارشی، ساختاردهی تمیز قالب‌ها با Blade و راه‌اندازی یک فرآیند CI/CD خودکار با GitHub Actions بوده است.
 
